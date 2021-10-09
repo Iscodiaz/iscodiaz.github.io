@@ -23,6 +23,7 @@ div#content {
   font-size: 3em;
   line-height: 4em;
   padding: 15px;
+  text-align: center;
 }
 
 nav > ul {
